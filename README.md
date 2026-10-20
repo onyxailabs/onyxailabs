@@ -6,12 +6,12 @@ I build practical AI automation tools with n8n: content machines, WhatsApp bots,
 
 
 ## 🚀 My Products
-- 🤖 **Viral Content Machine v2** — One topic → a week of content. 9 AI modules in n8n (hooks, trends, writers, video scripts, reverse-engineering). [$49 on Gumroad](https://mohsina91.gumroad.com/l/viral-content-machine) · [Watch the live demo](https://youtu.be/xYRKfGL4vL8)
-- 💬 **WhatsAppKit** — WhatsApp order bot + chatbot automation for businesses. [$49](https://mohsina91.gumroad.com/l/whatsappkit)
-- 🧠 **AgentKit** — Local AI agents with n8n. [$59](https://mohsina91.gumroad.com/l/agentkit)
-- 📄 **ContractKit** — Freelance contract template generator. [$29](https://mohsina91.gumroad.com/l/contractkit)
-- 🔒 **PrivateSuite** — Private AI meeting notetaker + spend tracker. [$39](https://mohsina91.gumroad.com/l/privatesuite)
-- 📊 **AI Spend Tracker** — See what your AI tools really cost you. [$29](https://mohsina91.gumroad.com/l/aispendtracker)
+- 🤖 **Viral Content Machine v2** — One topic → a week of content. 9 AI modules in n8n (hooks, trends, writers, video scripts, reverse-engineering). [$49 on Gumroad](https://onyxailabs.gumroad.com/l/viral-content-machine) · [Watch the live demo](https://youtu.be/xYRKfGL4vL8)
+- 💬 **WhatsAppKit** — WhatsApp order bot + chatbot automation for businesses. [$49](https://onyxailabs.gumroad.com/l/whatsappkit)
+- 🧠 **AgentKit** — Local AI agents with n8n. [$59](https://onyxailabs.gumroad.com/l/agentkit)
+- 📄 **ContractKit** — Freelance contract template generator. [$29](https://onyxailabs.gumroad.com/l/contractkit)
+- 🔒 **PrivateSuite** — Private AI meeting notetaker + spend tracker. [$39](https://onyxailabs.gumroad.com/l/privatesuite)
+- 📊 **AI Spend Tracker** — See what your AI tools really cost you. [$29](https://onyxailabs.gumroad.com/l/aispendtracker)
 
 
 ## 🎬 YouTube — Onyx AI
